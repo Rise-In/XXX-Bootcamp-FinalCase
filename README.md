@@ -41,13 +41,13 @@ Follow these steps to set up the project locally and start participating in web3
 1. Clone the repository:
 
 ```bash
-  git clone https://github.com/Rise-In/xxx.git
+  git clone https://github.com/Rise-In/XXX-Bootcamp-FinalCase.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-  cd xxx
+  cd XXX-Bootcamp-FinalCase
 ```
 
 3. Install required npm packages:
