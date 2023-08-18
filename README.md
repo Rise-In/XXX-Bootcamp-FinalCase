@@ -47,7 +47,7 @@ Follow these steps to set up the project locally and start participating in web3
 2. Navigate to the project directory:
 
 ```bash
-  cd Web3FinalCase
+  cd xxx
 ```
 
 3. Install required npm packages:
