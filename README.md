@@ -102,5 +102,5 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for your interest in the Web3 Auction DApp project! For questions or suggestions, reach out to us or open an issue on [GitHub](https://github.com/Rise-In). Happy bidding on the blockchain! 🚀
+Thank you for your interest in the Web3 Auction DApp project! For questions or suggestions, reach out to us or open an issue on [GitHub](https://github.com/Rise-In/XXX-Bootcamp-FinalCase). Happy bidding on the blockchain! 🚀
 
