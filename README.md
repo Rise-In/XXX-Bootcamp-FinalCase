@@ -11,6 +11,7 @@ Welcome to the **Web3 Auction DApp** project repository! This decentralized appl
   - [Installation](#installation)
 - [Usage](#usage)
 - [Smart Contracts](#smart-contracts)
+- [Testing](#testing)
 - [Frontend](#frontend)
 - [Contributing](#contributing)
 - [License](#license)
@@ -76,6 +77,21 @@ The smart contracts in this project facilitate the auction process. They handle 
 
 - `AuctionFactory.sol`: Responsible for creating new auctions.
 - `Auction.sol`: Manages bidding and winner determination for individual auctions.
+
+## Testing
+
+Smart contract tests are located in the `test` folder. These tests ensure the correct functioning of the smart contract. To run the tests, follow these steps:
+
+1. Open a terminal in the project directory.
+2. Run the following command to execute the tests:
+
+```bash
+truffle test
+```
+
+This command will initiate the smart contract tests and display the results in the terminal.
+
+![image](https://github.com/Rise-In/XXX-Bootcamp-FinalCase/assets/140731987/8dc52183-626c-4f39-9408-a37ba496a345)
 
 ## Frontend
 
